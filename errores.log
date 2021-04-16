@@ -1,1 +1,3 @@
 En este archivo comentaré los errores que ha habido en este curso, las diferencias entre python 2 y 3 y cómo lo he solucionado.
+
+En el capítulo 8 no me salía el nombre y la fecha. no declaré la clase. Con python no se puede usar unicode.
